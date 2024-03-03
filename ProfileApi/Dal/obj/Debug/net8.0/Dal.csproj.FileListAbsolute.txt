@@ -1,0 +1,15 @@
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\bin\Debug\net8.0\Dal.dll
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\bin\Debug\net8.0\Dal.pdb
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\bin\Debug\net8.0\Core.dll
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\bin\Debug\net8.0\Core.pdb
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\obj\Debug\net8.0\Dal.dll
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\obj\Debug\net8.0\Dal.pdb
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Dal\obj\Debug\net8.0\ref\Dal.dll

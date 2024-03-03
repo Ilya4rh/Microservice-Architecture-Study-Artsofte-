@@ -1,0 +1,17 @@
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\obj\Debug\net8.0\Logic.csproj.AssemblyReference.cache
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\obj\Debug\net8.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\obj\Debug\net8.0\Logic.AssemblyInfoInputs.cache
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\obj\Debug\net8.0\Logic.AssemblyInfo.cs
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\obj\Debug\net8.0\Logic.csproj.CoreCompileInputs.cache
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\bin\Debug\net8.0\Logic.deps.json
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\bin\Debug\net8.0\Logic.dll
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\bin\Debug\net8.0\Logic.pdb
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\bin\Debug\net8.0\Core.dll
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\bin\Debug\net8.0\Dal.dll
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\bin\Debug\net8.0\Dal.pdb
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\bin\Debug\net8.0\Core.pdb
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\obj\Debug\net8.0\Logic.csproj.Up2Date
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\obj\Debug\net8.0\Logic.dll
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\obj\Debug\net8.0\refint\Logic.dll
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\obj\Debug\net8.0\Logic.pdb
+D:\ProgramsC#\MicroserviceArchitecture\ProfileApi\Logic\obj\Debug\net8.0\ref\Logic.dll

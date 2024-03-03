@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcgz/RCKteaBFpnb2hd0DKTwE/twGbfMVMUHyc3i0h9jC5bk7Z81wh80d5QDzvydqbXV6iMJckQ9dSdbZRJjvg==",
+  "success": true,
+  "projectFilePath": "D:\\ProgramsC#\\MicroserviceArchitecture\\ProfileApi\\Dal\\Dal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chern\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

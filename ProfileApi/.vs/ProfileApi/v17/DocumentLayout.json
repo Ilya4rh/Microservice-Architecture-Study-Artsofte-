@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92795EBA-83DF-41C2-A9C9-FADCC1138514}|Logic\\Logic.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\logic\\logicstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92795EBA-83DF-41C2-A9C9-FADCC1138514}|Logic\\Logic.csproj|solutionrelative:logic\\logicstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvx0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:28:34.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicStartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Logic\\LogicStartUp.cs",
+              "RelativeDocumentMoniker": "Logic\\LogicStartUp.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Logic\\LogicStartUp.cs",
+              "RelativeToolTip": "Logic\\LogicStartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:27:58.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:17:09.204Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1317,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

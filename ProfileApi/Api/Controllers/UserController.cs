@@ -8,9 +8,9 @@ using Profile.Controllers.User.Responses;
 namespace ProfileApi.Controllers
 {
     [Route("api/users")]
-    public class UserController : ControllerBase
+    public class UserController(IUserLogicManager userLogicManager) : ControllerBase
     {
-        private readonly IUserLogicManager userLogicManager;
+        private readonly IUserLogicManager userLogicManager = userLogicManager;
 
         [HttpGet]
         [ProducesResponseType<UsersResponse>(200)]

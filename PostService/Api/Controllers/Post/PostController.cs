@@ -7,9 +7,9 @@ using Domain.Entities;
 namespace Api.Controllers.Post
 {
     [Route("api/posts")]
-    public class PostController : ControllerBase
+    public class PostController(IPostService postService) : ControllerBase
     {
-        private readonly IPostService postService;
+        private readonly IPostService postService = postService;
 
         [HttpGet]
         [ProducesResponseType(200)]

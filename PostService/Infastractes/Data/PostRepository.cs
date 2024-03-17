@@ -6,7 +6,7 @@ namespace Infastractes.Data;
 
 public class PostRepository : IPostRepository
 {
-    private static readonly ConcurrentDictionary<Guid, Post> postsData = new();
+    private readonly ConcurrentDictionary<Guid, Post> postsData = new();
 
     public async Task AddPostAsync(Post entity)
     {

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92795EBA-83DF-41C2-A9C9-FADCC1138514}|Logic\\Logic.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\logic\\users\\userlogicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92795EBA-83DF-41C2-A9C9-FADCC1138514}|Logic\\Logic.csproj|solutionrelative:logic\\users\\userlogicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB412E6F-68F7-41E6-ADA7-676E4F4F7F6D}|Dal\\Dal.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\dal\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB412E6F-68F7-41E6-ADA7-676E4F4F7F6D}|Dal\\Dal.csproj|solutionrelative:dal\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB412E6F-68F7-41E6-ADA7-676E4F4F7F6D}|Dal\\Dal.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\dal\\users\\models\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB412E6F-68F7-41E6-ADA7-676E4F4F7F6D}|Dal\\Dal.csproj|solutionrelative:dal\\users\\models\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92795EBA-83DF-41C2-A9C9-FADCC1138514}|Logic\\Logic.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\logic\\logicstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92795EBA-83DF-41C2-A9C9-FADCC1138514}|Logic\\Logic.csproj|solutionrelative:logic\\logicstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\profileapi\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7AB7A56-E548-48E4-96DF-340CDAFEF925}|Api\\Api.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +55,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserLogicManager.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Logic\\Users\\UserLogicManager.cs",
+              "RelativeDocumentMoniker": "Logic\\Users\\UserLogicManager.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Logic\\Users\\UserLogicManager.cs",
+              "RelativeToolTip": "Logic\\Users\\UserLogicManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:05:01.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Dal\\Users\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Users\\UserRepository.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Dal\\Users\\UserRepository.cs",
+              "RelativeToolTip": "Dal\\Users\\UserRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:39:59.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Api",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-17T08:31:44.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDal.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Dal\\Users\\Models\\UserDal.cs",
+              "RelativeDocumentMoniker": "Dal\\Users\\Models\\UserDal.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Dal\\Users\\Models\\UserDal.cs",
+              "RelativeToolTip": "Dal\\Users\\Models\\UserDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:44:52.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
               "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Program.cs",
               "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAADwvx0AAAAKAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwB0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T09:28:34.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "LogicStartUp.cs",
               "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Logic\\LogicStartUp.cs",
               "RelativeDocumentMoniker": "Logic\\LogicStartUp.cs",
@@ -69,9 +137,10 @@
               "RelativeDocumentMoniker": "Api\\Controllers\\UserController.cs",
               "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Controllers\\UserController.cs",
               "RelativeToolTip": "Api\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T09:17:09.204Z"
+              "WhenOpened": "2024-03-03T09:17:09.204Z",
+              "EditorCaption": ""
             }
           ]
         },

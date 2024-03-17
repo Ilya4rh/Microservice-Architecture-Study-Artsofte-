@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="C:\Users\chern\Downloads\course-main1\course-main\Libs\ExampleCore\ExampleCore.csproj" />
   </ItemGroup>
 
 </Project>

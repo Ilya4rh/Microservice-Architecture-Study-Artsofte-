@@ -6,7 +6,7 @@ namespace Infastractes.Data;
 
 public class CommentRepository : ICommentRepository
 {
-    private static readonly ConcurrentDictionary<Guid, Comment> commentsData = new();
+    private readonly ConcurrentDictionary<Guid, Comment> commentsData = new();
 
     public async Task AddCommentAsync(Comment entity)
     {

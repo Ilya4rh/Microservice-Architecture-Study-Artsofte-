@@ -5,9 +5,9 @@ using Logic.Users.Models;
 
 namespace Logic.Users;
 
-public class UserLogicManager : IUserLogicManager
+public class UserLogicManager(IUserRepository userRepository) : IUserLogicManager
 {
-    private readonly IUserRepository userRepository;
+    private readonly IUserRepository userRepository = userRepository;
 
     public async Task<IEnumerable<UserLogic>> GetUsersAsync()
     {

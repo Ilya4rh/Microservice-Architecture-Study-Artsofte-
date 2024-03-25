@@ -1,8 +1,8 @@
-﻿using Core.Dal.Base;
+﻿using ExampleCore.Dal.Base;
 
 namespace Dal.Users.Models;
 
-public record UserDal : BaseEntityDal
+public record UserDal : BaseEntityDal<Guid>
 {
     /// <summary>
     /// Логин

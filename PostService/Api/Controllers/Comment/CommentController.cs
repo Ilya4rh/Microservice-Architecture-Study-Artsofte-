@@ -6,9 +6,9 @@ using Services.Interfaces;
 namespace Api.Controllers.Comment
 {
     [Route("api/comments")]
-    public class CommentController : ControllerBase
+    public class CommentController(ICommentService commentService) : ControllerBase
     {
-        private readonly ICommentService commentService;
+        private readonly ICommentService commentService = commentService;
 
         [HttpGet("{id}")]
         [ProducesResponseType<CommentInfoResponse>(200)]
@@ -32,8 +32,8 @@ namespace Api.Controllers.Comment
             var newCommentId = await commentService.CreateCommentAsync(new Domain.Entities.Comment
             {
                 UserId = commentRequest.UserId,
-                PostId= commentRequest.PostId,
-                Text= commentRequest.Text,
+                PostId = commentRequest.PostId,
+                Text = commentRequest.Text,
             });
 
             return Ok(new CreateCommentResponse { Id = newCommentId });

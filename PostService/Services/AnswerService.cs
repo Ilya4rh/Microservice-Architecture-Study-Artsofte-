@@ -4,22 +4,25 @@ using Services.Interfaces;
 
 namespace Services;
 
-internal class AnswerService : IAnswerService
+internal class AnswerService(IAnswerRepository answerRepository, ICheckUserExist checkUserExist) : IAnswerService
 {
-    private readonly IAnswerRepository storeEntity;
+    private readonly IAnswerRepository answerRepository = answerRepository;
+    private readonly ICheckUserExist checkUserExist = checkUserExist;
 
     public async Task<Guid> CreateAnswerAsync(Answer entity)
     {
+        await checkUserExist.CheckUserExistAsync(entity.UserId);
+
         if (entity.Id == Guid.Empty)
             entity = entity with { Id = Guid.NewGuid() };
 
-        await storeEntity.AddAnswerAsync(entity);
+        await answerRepository.AddAnswerAsync(entity);
 
         return entity.Id;
     }
 
     public async Task<Answer> GetAnswerAsync(Guid entityId)
     {
-        return await storeEntity.GetAnswerAsync(entityId);
+        return await answerRepository.GetAnswerAsync(entityId);
     }
 }

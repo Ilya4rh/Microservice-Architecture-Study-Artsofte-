@@ -1,22 +1,39 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProgramsC#\\MicroserviceArchitecture\\PostService\\",
+  "WorkspaceRootPath": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D9B1502-59A7-4AD8-8448-14BA44DFC147}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\postservice\\api\\controllers\\answer\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D9B1502-59A7-4AD8-8448-14BA44DFC147}|Api\\Api.csproj|solutionrelative:api\\controllers\\answer\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CB68EF6-991D-418A-9083-281BC596C4C5}|..\\Libs\\ProfileConnectionLib\\ProfileConnectionLib.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\libs\\profileconnectionlib\\connectionservices\\connectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D9B1502-59A7-4AD8-8448-14BA44DFC147}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\postservice\\api\\controllers\\post\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D9B1502-59A7-4AD8-8448-14BA44DFC147}|Api\\Api.csproj|solutionrelative:api\\controllers\\post\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CB68EF6-991D-418A-9083-281BC596C4C5}|..\\Libs\\ProfileConnectionLib\\ProfileConnectionLib.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\libs\\profileconnectionlib\\profileconnectionlibstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D9B1502-59A7-4AD8-8448-14BA44DFC147}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\postservice\\api\\controllers\\comment\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D9B1502-59A7-4AD8-8448-14BA44DFC147}|Api\\Api.csproj|solutionrelative:api\\controllers\\comment\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC2B8769-C559-41D6-8B80-5294E4E2AE5F}|Services\\Services.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\postservice\\services\\answerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2B8769-C559-41D6-8B80-5294E4E2AE5F}|Services\\Services.csproj|solutionrelative:services\\answerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D9B1502-59A7-4AD8-8448-14BA44DFC147}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\postservice\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC2B8769-C559-41D6-8B80-5294E4E2AE5F}|Services\\Services.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\postservice\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2B8769-C559-41D6-8B80-5294E4E2AE5F}|Services\\Services.csproj|solutionrelative:services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2B8769-C559-41D6-8B80-5294E4E2AE5F}|Services\\Services.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\postservice\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2B8769-C559-41D6-8B80-5294E4E2AE5F}|Services\\Services.csproj|solutionrelative:services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D1B87-7FC6-491F-B2CF-96D68B72A20C}|Infastractes\\Infastractes.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\postservice\\infastractes\\data\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D1B87-7FC6-491F-B2CF-96D68B72A20C}|Infastractes\\Infastractes.csproj|solutionrelative:infastractes\\data\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D1B87-7FC6-491F-B2CF-96D68B72A20C}|Infastractes\\Infastractes.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\postservice\\infastractes\\data\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D1B87-7FC6-491F-B2CF-96D68B72A20C}|Infastractes\\Infastractes.csproj|solutionrelative:infastractes\\data\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B1502-59A7-4AD8-8448-14BA44DFC147}|Api\\Api.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\postservice\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D9B1502-59A7-4AD8-8448-14BA44DFC147}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60AB55D-D273-455B-B3E7-C91678DB5928}|..\\Libs\\ExampleCore\\ExampleCore.csproj|d:\\programsc#\\microservicearchitecture\\microservice-architecture-study-artsofte-\\libs\\examplecore\\logs\\serilogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +43,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\PostService\\Api\\Controllers\\Post\\PostController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\Post\\PostController.cs",
-              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\PostService\\Api\\Controllers\\Post\\PostController.cs",
-              "RelativeToolTip": "Api\\Controllers\\Post\\PostController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA1wCcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T05:49:09.757Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AnswerController.cs",
-              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\PostService\\Api\\Controllers\\Answer\\AnswerController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\Answer\\AnswerController.cs",
-              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\PostService\\Api\\Controllers\\Answer\\AnswerController.cs",
-              "RelativeToolTip": "Api\\Controllers\\Answer\\AnswerController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T13:18:36.275Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\PostService\\Api\\Controllers\\Comment\\CommentController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\Comment\\CommentController.cs",
-              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\PostService\\Api\\Controllers\\Comment\\CommentController.cs",
-              "RelativeToolTip": "Api\\Controllers\\Comment\\CommentController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T10:57:08.065Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -84,15 +59,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\PostService\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "Api\\Program.cs",
-              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\PostService\\Api\\Program.cs",
-              "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "DocumentIndex": 0,
+              "Title": "ConnectionService.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\Libs\\ProfileConnectionLib\\ConnectionServices\\ConnectionService.cs",
+              "RelativeDocumentMoniker": "..\\Libs\\ProfileConnectionLib\\ConnectionServices\\ConnectionService.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\Libs\\ProfileConnectionLib\\ConnectionServices\\ConnectionService.cs",
+              "RelativeToolTip": "..\\Libs\\ProfileConnectionLib\\ConnectionServices\\ConnectionService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T05:50:18.682Z",
+              "WhenOpened": "2024-03-17T15:04:00.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileConnectionLibStartUp.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\Libs\\ProfileConnectionLib\\ProfileConnectionLibStartUp.cs",
+              "RelativeDocumentMoniker": "..\\Libs\\ProfileConnectionLib\\ProfileConnectionLibStartUp.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\Libs\\ProfileConnectionLib\\ProfileConnectionLibStartUp.cs",
+              "RelativeToolTip": "..\\Libs\\ProfileConnectionLib\\ProfileConnectionLibStartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:03:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnswerService.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Services\\AnswerService.cs",
+              "RelativeDocumentMoniker": "Services\\AnswerService.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Services\\AnswerService.cs",
+              "RelativeToolTip": "Services\\AnswerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:01:56.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Services\\PostService.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Services\\PostService.cs",
+              "RelativeToolTip": "Services\\PostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:58:41.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "Services\\CommentService.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Services\\CommentService.cs",
+              "RelativeToolTip": "Services\\CommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:58:34.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Infastractes\\Data\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Infastractes\\Data\\PostRepository.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Infastractes\\Data\\PostRepository.cs",
+              "RelativeToolTip": "Infastractes\\Data\\PostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:58:24.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Infastractes\\Data\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Infastractes\\Data\\CommentRepository.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Infastractes\\Data\\CommentRepository.cs",
+              "RelativeToolTip": "Infastractes\\Data\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:58:23.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SerilogConfiguration.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\Libs\\ExampleCore\\Logs\\SerilogConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Libs\\ExampleCore\\Logs\\SerilogConfiguration.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\Libs\\ExampleCore\\Logs\\SerilogConfiguration.cs",
+              "RelativeToolTip": "..\\Libs\\ExampleCore\\Logs\\SerilogConfiguration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:23:38.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\PostService\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:17:40.635Z",
               "EditorCaption": ""
             }
           ]

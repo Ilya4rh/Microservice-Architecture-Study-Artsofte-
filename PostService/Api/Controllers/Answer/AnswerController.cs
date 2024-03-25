@@ -6,9 +6,9 @@ using Services.Interfaces;
 namespace Api.Controllers.Answer
 {
     [Route("api/answers")]
-    public class AnswerController : ControllerBase
+    public class AnswerController(IAnswerService answerService) : ControllerBase
     {
-        private readonly IAnswerService answerService;
+        private readonly IAnswerService answerService = answerService;
 
         [HttpGet("{id}")]
         [ProducesResponseType<AnswerInfoResponse>(200)]
@@ -32,7 +32,7 @@ namespace Api.Controllers.Answer
             var newAnswerId = await answerService.CreateAnswerAsync(new Domain.Entities.Answer 
             {
                 CommentId = answerRequest.CommentId,
-                UserId = answerRequest.UserId,
+                UserId = answerRequest.UserId,                
                 Text = answerRequest.Text
             });
 

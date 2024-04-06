@@ -4,8 +4,8 @@ using ExampleCore.HttpLogic;
 using ProfileConnectionLib;
 using ExampleCore.TraceIdLogic;
 using ExampleCore.Logs;
+using ExampleCore.RabbitLogic;
 using Serilog;
-using Serilog.Sinks.SystemConsole;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,7 +18,8 @@ builder.Services.AddControllers();
 builder.Services.TryAddServices();
 builder.Services.TryAddInfastractes();
 builder.Services.TryAddHttpRequestService();
-builder.Services.TryAddProfileConnectionServices();
+builder.Services.TryAddRabbitRequestService();
+builder.Services.TryAddProfileConnectionServices(builder.Configuration);
 builder.Services.TryAddTraceId();
 builder.Services.AddLoggerServices();
 builder.Host.UseSerilog((context, config) => config.GetConfiguration());

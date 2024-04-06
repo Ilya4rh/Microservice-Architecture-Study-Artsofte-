@@ -6,40 +6,16 @@ using ExampleCore.HttpLogic.Services.Requests.Data;
 using ExampleCore.HttpLogic.Services.Interfaces;
 using ExampleCore.HttpLogic.Services.Connection.Data;
 using ProfileConnectionLib.ConnectionServices.DtoModels.CheckUserExists.Responses;
+using ProfileConnectionLib.ConnectionServices.RequestService.Interfaces;
 
 namespace ProfileConnectionLib.ConnectionServices;
 
-public class ConnectionService : IConnectionService
+public class ConnectionService(IRequestService requestService) : IConnectionService
 {
-    private readonly IHttpRequestService httpRequestService;
+    private readonly IRequestService requestService = requestService;
 
-    public ConnectionService(IConfiguration configuration, IServiceProvider serviceProvider)
+    public Task<CheckUserExistsResponse> CheckUserExistAsync(CheckUserExistsRequest checkUser)
     {
-        if (configuration.GetSection("Connection").Value == "http")
-        {
-            httpRequestService = serviceProvider.GetRequiredService<IHttpRequestService>();
-        }
-        else
-        {
-            // RPC по rabbit
-        }
-    }
-
-    public async Task<CheckUserExistsResponse> CheckUserExistAsync(CheckUserExistsRequest checkUser)
-    {
-        var requestData = new HttpRequestData
-        {
-            Method = HttpMethod.Get,
-            Uri = new Uri("https://localhost:7002/api/users/id"),
-            QueryParameterList = [new("userId", checkUser.Id.ToString())]
-        };
-
-        var connectionData = new HttpConnectionData();
-        var response = await httpRequestService.SendRequestAsync<CheckUserExistsResponse>(requestData, connectionData);
-
-        if (!response.IsSuccessStatusCode)
-            throw new Exception("The user is not found");
-
-        return response.Body;
+        return requestService.CheckUserExistAsync(checkUser);
     }
 }

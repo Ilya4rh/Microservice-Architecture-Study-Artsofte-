@@ -75,21 +75,19 @@
               "RelativeToolTip": "Dal\\Users\\UserRepository.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T08:39:59.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T08:39:59.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Api",
+              "Title": "Api.csproj",
               "DocumentMoniker": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Api.csproj",
               "RelativeDocumentMoniker": "Api\\Api.csproj",
               "ToolTip": "D:\\ProgramsC#\\MicroserviceArchitecture\\Microservice-Architecture-Study-Artsofte-\\ProfileApi\\Api\\Api.csproj",
               "RelativeToolTip": "Api\\Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-17T08:31:44.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T08:31:44.797Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Dal\\Users\\Models\\UserDal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T07:44:52.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T07:44:52.689Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Api\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAwwB0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T09:28:34.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T09:28:34.374Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "Api\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAwAwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T09:17:09.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T09:17:09.204Z"
             }
           ]
         },

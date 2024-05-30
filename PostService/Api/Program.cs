@@ -5,12 +5,7 @@ using ProfileConnectionLib;
 using ExampleCore.TraceIdLogic;
 using ExampleCore.Logs;
 using ExampleCore.RabbitLogic;
-using MassTransit;
-using MassTransit.EntityFrameworkCoreIntegration;
-using ProfileConnectionLib.SagaLogic.Service;
 using Serilog;
-using Microsoft.EntityFrameworkCore;
-using MassTransit.EntityFrameworkCoreIntegration;
 using ProfileConnectionLib.SagaLogic;
 
 var builder = WebApplication.CreateBuilder(args);
